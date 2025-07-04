@@ -1,12 +1,62 @@
-# React + Vite
+# 📝 FocusTodo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A professional-level Todo List App built using modern tools and real-time capabilities.
 
-Currently, two official plugins are available:
+🔗 **Live Demo:** [https://to-do-list-firebase-sable.vercel.app/](https://to-do-list-firebase-sable.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📸 Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![FocusTodo Preview](![alt text](image.png))
+
+---
+
+## ⚙️ Tech Stack
+
+- React + Vite ⚛️
+- Redux Toolkit 🧠
+- Firebase Realtime Database 🔥
+- Bootstrap 5 (Dark Glass UI) 🎨
+- Axios (future integration ready)
+
+---
+
+## ✨ Features
+
+- ✅ Add, delete & mark todos
+- 🔁 Firebase Realtime sync
+- 🎯 Filter: All / Pending / Completed
+- 🌙 Dark glass UI + Responsive layout
+- 🔐 Firebase config separation
+- 🧠 Redux Toolkit for state
+
+---
+
+## 🔧 Setup
+
+```bash
+git clone https://github.com/your-username/focus-todo.git
+cd focus-todo
+npm install
+npm run dev
+
+
+📁 Folder Structure
+src/
+├── App.jsx
+├── main.jsx
+├── components/
+│   ├── AddTodo.jsx
+│   ├── TodoList.jsx
+│   └── FilterButtons.jsx
+├── redux/
+│   ├── store.js
+│   └── todoSlice.js
+└── firebase/
+    └── config.js
+
+
+🙌 Author
+Made with ❤️ by Bhargav Bhimani
+🔗 Live Project
