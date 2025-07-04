@@ -33,6 +33,10 @@ A professional-level Todo List App built using modern tools and real-time capabi
 
 ---
 
+🙌 Author
+Made with ❤️ by Bhargav Bhimani
+🔗 Live Project
+
 ## 🔧 Setup
 
 ```bash
@@ -57,6 +61,3 @@ src/
     └── config.js
 
 
-🙌 Author
-Made with ❤️ by Bhargav Bhimani
-🔗 Live Project
