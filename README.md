@@ -36,7 +36,7 @@ A professional-level Todo List App built using modern tools and real-time capabi
 ## 🔧 Setup
 
 ```bash
-git clone https://github.com/your-username/focus-todo.git
+git clone https://github.com/Bhargavbhimani229/To-Do-List-Firebase
 cd focus-todo
 npm install
 npm run dev
